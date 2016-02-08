@@ -47,6 +47,10 @@
 		5B3AF5BD1C684AF30044ECC4 /* TareaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TareaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B3AF5C11C684AF30044ECC4 /* TareaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TareaUITests.swift; sourceTree = "<group>"; };
 		5B3AF5C31C684AF30044ECC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B3AF5CF1C684E5B0044ECC4 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria.playground"; sourceTree = SOURCE_ROOT; };
+		5B3AF5D01C684E640044ECC4 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria.playground"; sourceTree = "<group>"; };
+		5B3AF5D11C684E6D0044ECC4 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria.playground"; sourceTree = "<group>"; };
+		5B3AF5D21C684E750044ECC4 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria.playground"; path = "../Juego de Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,7 @@
 				5B3AF5B51C684AF30044ECC4 /* TareaTests */,
 				5B3AF5C01C684AF30044ECC4 /* TareaUITests */,
 				5B3AF59F1C684AF20044ECC4 /* Products */,
+				5B3AF5D21C684E750044ECC4 /* Juego de Memoria.playground */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +102,7 @@
 		5B3AF5A01C684AF20044ECC4 /* Tarea */ = {
 			isa = PBXGroup;
 			children = (
+				5B3AF5CF1C684E5B0044ECC4 /* Juego de Memoria.playground */,
 				5B3AF5A11C684AF20044ECC4 /* AppDelegate.swift */,
 				5B3AF5A31C684AF20044ECC4 /* ViewController.swift */,
 				5B3AF5A51C684AF20044ECC4 /* Main.storyboard */,
@@ -110,6 +116,7 @@
 		5B3AF5B51C684AF30044ECC4 /* TareaTests */ = {
 			isa = PBXGroup;
 			children = (
+				5B3AF5D01C684E640044ECC4 /* Juego de Memoria.playground */,
 				5B3AF5B61C684AF30044ECC4 /* TareaTests.swift */,
 				5B3AF5B81C684AF30044ECC4 /* Info.plist */,
 			);
@@ -119,6 +126,7 @@
 		5B3AF5C01C684AF30044ECC4 /* TareaUITests */ = {
 			isa = PBXGroup;
 			children = (
+				5B3AF5D11C684E6D0044ECC4 /* Juego de Memoria.playground */,
 				5B3AF5C11C684AF30044ECC4 /* TareaUITests.swift */,
 				5B3AF5C31C684AF30044ECC4 /* Info.plist */,
 			);
@@ -480,6 +488,7 @@
 				5B3AF5C81C684AF30044ECC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B3AF5C91C684AF30044ECC4 /* Build configuration list for PBXNativeTarget "TareaTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +497,7 @@
 				5B3AF5CB1C684AF30044ECC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B3AF5CC1C684AF30044ECC4 /* Build configuration list for PBXNativeTarget "TareaUITests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +506,7 @@
 				5B3AF5CE1C684AF30044ECC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
