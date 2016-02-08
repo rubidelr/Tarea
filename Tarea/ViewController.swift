@@ -8,6 +8,9 @@
 
 /* Juego de Memoria
  
+ No logré subir el playground a GitHub, pero debajo se encuentran las líneas de codigo que 
+ clasifican los números de la serie de la manera solicitada.
+ 
  for i in 1...100 {
  if i >= 30 && i <= 40{
  print("\(i) Viva Swift!!!")
