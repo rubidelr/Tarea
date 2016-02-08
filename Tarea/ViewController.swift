@@ -6,6 +6,24 @@
 //  Copyright © 2016 Rodrigo Rubí Delgado. All rights reserved.
 //
 
+/* Juego de Memoria
+ 
+ for i in 1...100 {
+ if i >= 30 && i <= 40{
+ print("\(i) Viva Swift!!!")
+ }else if i % 5 == 0{
+ print("\(i) Bingo!!!")
+ }else if i % 2 == 0{
+ print("\(i) par")
+ }else if i % 2 != 0{
+ print("\(i) impar")}
+ else{
+ print(i)}
+ }
+ 
+ */
+
+
 import UIKit
 
 class ViewController: UIViewController {
